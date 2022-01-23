@@ -1,0 +1,2 @@
+# numerical-precision-indicator
+一些运算会带来浮点类型的数字精度问题，这个工具可以提示哪些数字产生了精度问题
